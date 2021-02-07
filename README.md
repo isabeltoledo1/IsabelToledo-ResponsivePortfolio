@@ -1,14 +1,8 @@
-A responsive Portfolio with an About, portfolio and Contact page. 
+A responsive Portfolio using bootstrap, html and css which includes: 
 
-
-
-
-
-
-
-* 
-
-
+*  an About Page
+*  a Porfolio page
+*  a Contact pag
 
 
 
